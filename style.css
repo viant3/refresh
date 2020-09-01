@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+.red1 {
+    background-color: red;
+    padding: 20px;
+    font-weight: 700;
+    width: 100%;
+    float: left;
+}
